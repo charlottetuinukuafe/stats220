@@ -31,4 +31,5 @@ A meme that captures how I currently feel about my university studies is
 [Tracy Chapman](https://i.scdn.co/image/ab67616d0000b27390b8a540137ee2a718a369f9)
 
 ## An animated GIF 
-![image](https://github.com/user-attachments/assets/0ed932b1-e6d2-45dd-b802-f1dc8fca0898)
+![Jonah Hill](https://i.giphy.com/5GoVLqeAOo6PK.webp)
+
