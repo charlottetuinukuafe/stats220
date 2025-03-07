@@ -20,15 +20,16 @@ A meme that captures how I currently feel about my university studies is
 1. Years gone by and still
 2. Words don't come easily
 
-*Like sorry, 
-*like sorry
+- Like sorry, 
+- like sorry
 
 ## Use of bold & italics
-*Forgive me*
+*Forgive me* <br /> 
 **Is all that you can't say**
 
 ## Links to other websites
-[Tracy Chapman](https://i.scdn.co/image/ab67616d0000b27390b8a540137ee2a718a369f9)
+[Tracy Chapman Image](https://i.scdn.co/image/ab67616d0000b27390b8a540137ee2a718a369f9) <br />
+[Tracy Chapman YouTube](https://www.youtube.com/watch?v=DqoLMGSBGYc)
 
 ## An animated GIF 
 ![Jonah Hill](https://i.giphy.com/5GoVLqeAOo6PK.webp)
