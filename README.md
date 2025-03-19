@@ -13,7 +13,7 @@ A meme that captures how I currently feel about my university studies is
 
 # Project 1: Part A
 ## Two different levels of headers
-### Sorry
+### Sorry 
 #### Is all that you can't say
 
 ## Two different types of bullet points
@@ -25,7 +25,10 @@ A meme that captures how I currently feel about my university studies is
 
 ## Use of bold & italics
 *Forgive me* <br /> 
-**Is all that you can't say**
+**Is all that you can't say** <br /> 
+
+> Forgive me <br />  
+~~Forgive me~~
 
 ## Links to other websites
 [Tracy Chapman Image](https://i.scdn.co/image/ab67616d0000b27390b8a540137ee2a718a369f9) <br />
@@ -34,3 +37,6 @@ A meme that captures how I currently feel about my university studies is
 ## An animated GIF 
 ![Jonah Hill](https://i.giphy.com/5GoVLqeAOo6PK.webp)
 
+## The end
+- [x] Part A finito
+- [ ] Part A un-finito
